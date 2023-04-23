@@ -32,7 +32,6 @@ The experiments are conducted on one GPU (NVIDIA RTX 3090ti).
 
    {DATASET} = refcoco, refcoco+, refcocog. {SPLITBY} = unc for refcoco and refcoco+, google for refcocog.
 
-4. the acquired results with different settings are listed in output/easy_results.txt
 
 ### Pretrained Models
 The trained models on three benchmarks can be downloaded [here](https://drive.google.com/file/d/1PiFWptVi_kZe_hS7VsnMX__8iqYd6UX6/view?usp=sharing).
