@@ -34,7 +34,7 @@ The experiments are conducted on one GPU (NVIDIA RTX 3090ti).
 
 
 ### Pretrained Models
-The trained models on three benchmarks can be downloaded [here](https://drive.google.com/file/d/1PiFWptVi_kZe_hS7VsnMX__8iqYd6UX6/view?usp=sharing).
+The trained models on three benchmarks can be downloaded [here](https://drive.google.com/drive/folders/183BmPhVlt8NYfZdWq5LGYB5XAG6ohI0S?usp=share_link).
 
 ### Acknowledgement
 The code is based on [DTWREG](https://github.com/insomnia94/DTWREG/).
