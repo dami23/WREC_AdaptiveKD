@@ -1,5 +1,4 @@
-This project is the pytorch implementation for "Adaptive Distilling Target- and Interaction-Aware Knowledge for Weakly Supervised Referring Expression Comprehension". 
-
+This project is the pytorch implementation for "Adaptive Knowledge Distillation and Integration for Weakly Supervised Referring Expression Comprehension". 
 
 ### Preliminary
 1. Please refer to [MattNet](https://github.com/lichengunc/MAttNet) to install mask-faster-rcnn, REFER and refer-parser2. Follow Step 1 & 2 in Training to prepare the data and features.
